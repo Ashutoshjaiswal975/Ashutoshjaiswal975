@@ -2,9 +2,10 @@
 
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashutoshjaiswal975&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashutoshjaiswal975&layout=compact&theme=dracula" height="150" alt="languages graph" />
+  
   <img align="right" height="150" src="https://media.tenor.com/stwEJrjgtwYAAAAj/wave-hi.gif" />
 </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashutoshjaiswal975&layout=compact&theme=dracula" height="150" alt="languages graph" />
 
 
 
